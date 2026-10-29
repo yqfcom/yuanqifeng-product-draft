@@ -1,0 +1,4 @@
+interface:
+  display_name: "元气蜂产品上架助手"
+  short_description: "将零散活动资料整理成后台上架草稿，统一文案、筛选标签与团队效能判断"
+  default_prompt: "请使用 $yuanqifeng-product-draft 阅读这些项目资料，生成完整的元气蜂产品上架草稿。"
